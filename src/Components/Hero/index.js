@@ -7,7 +7,7 @@ import "./style.css"
 
 const Hero = () => {
   return (
-    <div className='border-2   h-[69rem] flex flex-col items-center  pt-[8rem]'>
+    <div className='border-2  h-[69rem] flex flex-col items-center  pt-[8rem]'>
       
       <div className='border-2 w-[305px] rounded-[16px] py-[3px] px-[2px] bg-[#FFF4ED] flex space-x-[12px] font-inter  mr-[3rem]'>
         <p className=' font-medium leading-5 text-[14px] bg-[#EF6820] w-[55px] text-[#FFFFFF] h-[24px] rounded-[16px] text-center pt-[2px]'>New!</p>
@@ -35,9 +35,6 @@ const Hero = () => {
         </div>
       
       </div>
-   
-
-
     </div>
   )
 }
