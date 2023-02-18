@@ -7,8 +7,8 @@ import "./style.css"
 
 const Hero = () => {
   return (
-    <div className='h-[69rem] flex flex-col items-center  pt-[8rem] lg:flex-row lg:h-[50rem] lg:pt-0'>
-      <div className='flex flex-col items-center lg:items-start lg:pl-[153px]'>
+    <div className='h-[69rem] flex flex-col items-center justify-center  pt-[8rem] lg:flex-row lg:h-[50rem] lg:pt-0'>
+      <div className='flex flex-col items-center lg:items-start'>
         <div className=' w-[305px] rounded-[16px] py-[3px] px-[2px] bg-[#FFF4ED] flex space-x-[12px] font-inter'>
           <p className=' font-medium leading-5 text-[14px] bg-[#EF6820] w-[55px] text-[#FFFFFF] h-[24px] rounded-[16px] text-center pt-[2px]'>New!</p>
           <p className='flex items-center'>Download the new iOS app<i><FiArrowRight style={{ color: "#667085",marginLeft: "6px"}}/></i></p>
@@ -33,7 +33,7 @@ const Hero = () => {
           </div>
         </div>
       
-      </div>
+      </div> 
     </div>
   )
 }

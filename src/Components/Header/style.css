@@ -16,12 +16,11 @@ header {
 	display: flex;
 	align-items: center;
 	height: 90px;
-	padding: 0 2rem;
 	z-index: 100;
     width: 100%;
     position: fixed;
 	font-family: 'Roboto', sans-serif;
-	padding: 0 153px;
+	padding: 0 100px;
 	color: var(--textColor);
 	background-color: #ffff;
 }
@@ -76,6 +75,7 @@ nav {
 		display: flex;
 		justify-content: space-between;
 	}
+
 
 	header nav {
 		position: fixed;
