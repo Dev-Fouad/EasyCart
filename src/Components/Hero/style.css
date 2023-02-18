@@ -1,0 +1,13 @@
+.Back{
+    width: 100%;
+    height: 558px;
+    background-size: cover;
+    background-image: url(./Hero-img\ \(1\).png);
+    background-repeat: none;
+    margin-top: 4rem;
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}

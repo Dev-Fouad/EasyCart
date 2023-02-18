@@ -15,9 +15,10 @@
 header {
 	display: flex;
 	align-items: center;
-	height: 100px;
+	height: 90px;
 	font-family: 'Roboto', sans-serif;
 	padding: 0 153px;
+	border: 2px solid red;
 	color: var(--textColor);
 }
 

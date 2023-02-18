@@ -6,6 +6,16 @@ module.exports = {
   ],
   theme: {
     extend: {},
+    screens: {
+      sm: '480px', 
+      md: '768px',
+      lg: '976px',
+      xl: '1440px'
+    },
+    fontFamily: {
+      inter: ['Inter', "sans-serif"],
+      rob: ['Roboto', "sans-serif"]
+    },
   },
   plugins: [],
 }
