@@ -16,10 +16,14 @@ header {
 	display: flex;
 	align-items: center;
 	height: 90px;
+	padding: 0 2rem;
+	z-index: 100;
+    width: 100%;
+    position: fixed;
 	font-family: 'Roboto', sans-serif;
 	padding: 0 153px;
-	border: 2px solid red;
 	color: var(--textColor);
+	background-color: #ffff;
 }
 
 .first{
@@ -85,6 +89,7 @@ nav {
 		align-items: center;
 		justify-content: center;
 		gap: 1.5rem;
+		z-index: 100;
 		background-color: #FF5500;
 		transition: 1s;
 		transform: translateX(100vh);
