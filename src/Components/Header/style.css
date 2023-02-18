@@ -72,11 +72,10 @@ nav {
 		opacity: 1;
 	}
 	header{
-		padding: 0 2rem;
+		padding: 0 1.9rem;
 		display: flex;
 		justify-content: space-between;
 	}
-
 
 	header nav {
 		position: fixed;
