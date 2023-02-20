@@ -20,7 +20,7 @@ header {
     width: 100%;
     position: fixed;
 	font-family: 'Roboto', sans-serif;
-	padding: 0 100px;
+	padding: 0 123px;
 	color: var(--textColor);
 	background-color: #ffff;
 }
