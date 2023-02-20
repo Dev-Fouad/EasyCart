@@ -20,7 +20,7 @@ header {
     width: 100%;
     position: fixed;
 	font-family: 'Roboto', sans-serif;
-	padding: 0 123px;
+	padding: 0 269px;
 	color: var(--textColor);
 	background-color: #ffff;
 }
@@ -91,7 +91,7 @@ nav {
 		z-index: 100;
 		background-color: #FF5500;
 		transition: 1s;
-		transform: translateX(100vh);
+		transform: translate(100vh);
 	}
 
 	header .responsive_nav {
