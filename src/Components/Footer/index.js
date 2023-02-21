@@ -22,7 +22,7 @@ const Footer = () => {
 
         <img src={japps} alt="" className=' w-[400px] max-md:w-[350px] max-md:mt-[5rem] max-lg:w-[350px] z-50'></img>
         <img src={Papp} alt="" className=' absolute right-[1192px] top-7 max-md:hidden max-lg:hidden'></img>
-        <img src={Amps} alt="" className=' absolute left-[700px] max-md:hidden max-lg:hidden max-xl:hidden'></img>
+        {/* <img src={Amps} alt="" className=' absolute left-[700px] max-md:hidden max-lg:hidden max-xl:hidden'></img> */}
       </div>
 
       <div className=' h-[9rem] flex  items-center justify-evenly max-md:flex-col'>
