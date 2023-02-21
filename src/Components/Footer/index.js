@@ -3,7 +3,7 @@ import pap from "../Assets/Mobile app store badge (2).png"
 import japp from "../Assets/Mobile app store badge (1).png"
 import japps from "../Assets/iPhone 14.png"
 import Papp from "../Assets/Vector 3 (2).png"
-import Amps from "../Assets/Vector 4 (2).png"
+// import Amps from "../Assets/Vector 4 (2).png"
 import { BsTwitter, BsFacebook, BsInstagram, BsLinkedin } from "react-icons/bs";
 
 const Footer = () => {
