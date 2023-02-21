@@ -13,7 +13,7 @@ function Navbar() {
 	return (
 		<header>
 			<img src={logo} alt=""></img>
-			
+
 			<nav ref={navRef}>
 				<a href="/#" className="first">Home</a>
 				<a href="/#">Blog</a>

@@ -7,7 +7,7 @@ import "./style.css"
 
 const Hero = () => {
   return (
-    <div className='h-[69rem] flex flex-col items-center justify-center  pt-[8rem] lg:flex-row lg:h-[50rem] lg:pt-0'>
+    <div className='h-[69rem] flex flex-col items-center justify-center  pt-[4rem] lg:flex-row lg:h-[50rem] lg:pt-0'>
       
       <div className='flex flex-col items-center lg:items-start'>
         <div className=' w-[305px] rounded-[16px] py-[3px] px-[2px] bg-[#FFF4ED] flex space-x-[12px] font-inter max-sm:mr-[2.3rem]'>
